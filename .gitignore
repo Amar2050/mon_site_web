@@ -2,4 +2,8 @@ tmp/todo.txt
 tmp/*
 *.txt
 test
+<<<<<<< Updated upstream
 truc
+=======
+machin
+>>>>>>> Stashed changes
